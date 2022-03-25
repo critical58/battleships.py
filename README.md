@@ -11,4 +11,4 @@ Press the Open in Gitpod button to edit and run	😃
 - [ ] Implement pygame
 
 # 📜 Licence 
-[MIT](https://github.com/critical58/battleships.py/blob/main/LICENSE)
+[MIT](https://github.com/critical58/battleships.py/blob/main/LICENSE)©[critical58](https://github.com/critical58)
