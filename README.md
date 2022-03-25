@@ -5,7 +5,7 @@ Simple Battleships in Python
 # ✏️ Usage
 Press the Open in Gitpod button to edit and run	😃
 
-# To-Do
+# ✅ To-Do
 - [ ] Finish battleships
 - [ ] Change structure to OOP
 - [ ] Implement pygame
