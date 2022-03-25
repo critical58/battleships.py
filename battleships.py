@@ -21,8 +21,8 @@ def initBoard():
       try:
         # ask for start coordinate
         coordStart = input("Player 1, where would you like your "+str(i[0])+"-long piece to start E.G (A1)?\n>>> ")
-        print(int(coordStart[1:])-1) # num section of coords a「3」
-        print(ord(coordStart[0].lower()) - 97) # letter section of coords「a」3
+        #print(int(coordStart[1:])-1) # num section of coords a「3」
+        #print(ord(coordStart[0].lower()) - 97) # letter section of coords「a」3
         # mCoordStart = board1[int(coordStart[1:])-1][ord(coordStart[0].lower()) - 97], for copy and paste
         # get end coord
         coordEnd = input("\nPlayer 1, where would you like your "+str(i[0])+"-long piece to end E.G (A1)?\n>>> ")
