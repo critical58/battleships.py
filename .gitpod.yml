@@ -1,6 +1,6 @@
 image: gitpod/workspace-full-vnc
 tasks:
-  - init: pip3 install -r pygame
+  - init: pip3 install pygame
     command: python3 battleships.py
 ports:
   - port: 5900
