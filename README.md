@@ -7,4 +7,4 @@ Simple Battleships in Python
 - [ ] Implement pygame
 
 # 📜 Licence 
-[MIT]()
+[MIT](https://github.com/critical58/battleships.py/blob/main/LICENSE)
