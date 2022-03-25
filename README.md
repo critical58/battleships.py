@@ -2,7 +2,10 @@
 # 🚢 battleships.py
 Simple Battleships in Python
 
-# ToDo
+# ✏️ Usage
+Press the Open in Gitpod button to edit and run	😃
+
+# To-Do
 - [ ] Finish battleships
 - [ ] Change structure to OOP
 - [ ] Implement pygame
